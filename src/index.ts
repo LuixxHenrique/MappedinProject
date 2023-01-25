@@ -29,3 +29,6 @@ async function init() {
 }
 
 init();
+
+//link de outro método porém que nao consegui fazer o fork
+//https://codesandbox.io/s/a-b-wayfinding-c2y11n?from-embed=&file=/src/index.ts
